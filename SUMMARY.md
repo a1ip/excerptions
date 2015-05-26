@@ -3,5 +3,5 @@
 * [О книге](README.md)
 * [О молитве](Prayer.md)
 * [О святости](Holiness.md)
-* О христианстве
+* [О христианстве](Christianity.md)
 
