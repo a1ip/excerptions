@@ -5,5 +5,5 @@
 * [О святости](Holiness.md)
 * [О христианстве](Christianity.md)
 * [О церкви](Church.adoc)
-* О разном
+* [О разном](o_raznom.md)
 
