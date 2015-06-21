@@ -7,5 +7,5 @@
 * [О церкви](Church.adoc)
 * [О разном](Diff.adoc)
 * [О программировании](Programming.adoc)
-* О Христе
+* [О Христе](Christ.adoc)
 
