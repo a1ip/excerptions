@@ -8,5 +8,5 @@
 * [О церкви](Church.adoc)
 * [О разном](Diff.adoc)
 * [О программировании](Programming.adoc)
-* Бог и человек
+* [Бог и человек](GodAndMan.adoc)
 
