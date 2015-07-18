@@ -6,7 +6,7 @@
 * [О святости](Holiness.adoc)
 * [О христианстве](Christianity.adoc)
 * [О церкви](Church.adoc)
+* [Бог и человек](GodAndMan.adoc)
 * [О разном](Diff.adoc)
 * [О программировании](Programming.adoc)
-* [Бог и человек](GodAndMan.adoc)
 
