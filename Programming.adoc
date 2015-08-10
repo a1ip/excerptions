@@ -23,3 +23,6 @@
 
 {empty} +
 
+"Premature optimization is the root of all evil."
+-- Donald Ervin Knuth, Computer Programming as an Art (1974)
+
