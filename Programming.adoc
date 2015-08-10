@@ -18,5 +18,8 @@
 
 {empty} +
 
+"Java is to JavaScript what Car is to Carpet."
+-- Chris Heilmann
 
+{empty} +
 
