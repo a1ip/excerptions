@@ -4,7 +4,7 @@
 * [О Христе](Christ.adoc)
 * [О молитве](Prayer.adoc)
 * [О святости](Holiness.adoc)
-* О Библии
+* [О Библии](Bible.adoc)
 * [О христианстве](Christianity.adoc)
 * [О церкви](Church.adoc)
 * [Бог и человек](GodAndMan.adoc)
