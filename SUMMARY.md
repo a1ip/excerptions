@@ -9,4 +9,5 @@
 * [Бог и человек](GodAndMan.adoc)
 * [О разном](Diff.adoc)
 * [О программировании](Programming.adoc)
+* О Библии
 
