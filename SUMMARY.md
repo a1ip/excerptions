@@ -7,8 +7,8 @@
 * [О Библии](Bible.adoc)
 * [О христианстве](Christianity.adoc)
 * [О церкви](Church.adoc)
+* [О миссии](Mission.adoc)
 * [Бог и человек](GodAndMan.adoc)
 * [О разном](Diff.adoc)
 * [О программировании](Programming.adoc)
-* [О миссии](Mission.adoc)
 
