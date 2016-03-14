@@ -13,7 +13,12 @@
 
 {empty} +
 
-"Молитва - это нежный нерв"
--- Сперджен
+"Молитва есть нежный нерв, который движет мускулами Всемогущества."
+-- Чарльз Сперджен
+
+{empty} +
+
+"Prayer is the slender nerve that moveth the muscle of Omnipotence."
+-- Charles Haddon Spurgeon
 
 {empty} +
