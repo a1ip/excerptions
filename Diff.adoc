@@ -35,3 +35,13 @@
 -- Андрей Николаевич Колмогоров
 
 {empty} +
+
+"You can't go back and change the beginning, but you can start where you are and change the ending."
+-- Unknown author
+
+{empty} +
+
+"Вы не можете вернуться и изменить начало, но вы можете начать с того места, где вы находитесь, и изменить конец."
+-- Неизвестный автор
+
+{empty} +
